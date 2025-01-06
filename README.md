@@ -9,7 +9,7 @@ Applied Scaling to standardize features.
 Used SMOTE (Synthetic Minority Oversampling Technique) to handle class imbalance effectively.
 Dimensionality Reduction:
 Conducted Principal Component Analysis (PCA) to evaluate variance and reduce dimensionality.
-Clustering Techniques:
+# Clustering Techniques:
 Implemented K-means Clustering and Gaussian Mixture Models to group data points and analyze patterns.
 Anomaly Detection:
 Leveraged Isolation Forest to identify potential fraud cases based on outlier detection.
