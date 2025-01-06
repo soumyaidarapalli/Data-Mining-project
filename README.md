@@ -11,13 +11,13 @@ Dimensionality Reduction:
 Conducted Principal Component Analysis (PCA) to evaluate variance and reduce dimensionality.
 # Clustering Techniques:
 Implemented K-means Clustering and Gaussian Mixture Models to group data points and analyze patterns.
-Anomaly Detection:
+# Anomaly Detection:
 Leveraged Isolation Forest to identify potential fraud cases based on outlier detection.
-Machine Learning Models:
+# Machine Learning Models:
 Gaussian Naive Bayes
 Logistic Regression
 Decision Tree Classifier
-Results:
+# Results:
 Evaluated model performance using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC curves.
 Improved fraud detection rates through resampling and anomaly detection techniques.
 This project demonstrates the integration of classification, clustering, and anomaly detection methods to build a robust credit card fraud detection system, effectively addressing class imbalance and improving predictive performance.
